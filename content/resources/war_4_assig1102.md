@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7f50fdef-e7dd-4173-6be6-728f1261216d
 resourcetype: Document
 title: Fourth Writing Assignment
 uid: 45c27817-3025-9740-14a9-5ce86698b0b8

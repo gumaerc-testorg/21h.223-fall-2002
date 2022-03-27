@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7f50fdef-e7dd-4173-6be6-728f1261216d
 resourcetype: Document
 title: World War II Paper
 uid: ede54a84-d675-d0df-ec90-565282ab90cb

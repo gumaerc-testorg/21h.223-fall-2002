@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 93cef9fb-ec59-f949-569a-c0449f5fb63a
 resourcetype: Document
 title: Syllabus, Fall 2002, Christopher Capozzola
 uid: 6b14ecb4-bcd1-8109-7a45-a19226e620bc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7f50fdef-e7dd-4173-6be6-728f1261216d
 resourcetype: Document
 title: Final Presentations and Discussions
 uid: 2e7374f8-13b7-6162-e0fb-1d4ee7061350

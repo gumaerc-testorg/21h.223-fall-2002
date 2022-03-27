@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7f50fdef-e7dd-4173-6be6-728f1261216d
 resourcetype: Document
 title: First Writing Assignment
 uid: 7789002d-9ff8-5101-928c-4650df20d874
