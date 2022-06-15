@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +17,7 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2002, Christopher Capozzola ([PDF]({{< baseurl >}}/resources/mit21h_223f02_syllf02))
+> Fall 2002, Christopher Capozzola ({{% resource_link 6b14ecb4-bcd1-8109-7a45-a19226e620bc "PDF" %}})
 
 Introduction
 ------------
