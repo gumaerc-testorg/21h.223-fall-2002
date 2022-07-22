@@ -6,6 +6,7 @@ file: /courses/21h-223-war-american-society-fall-2002/5410a40c240746bb326953e4b7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Second Writing Assignment
 uid: 5410a40c-2407-46bb-3269-53e4b71b2c7f
 ---
 Writing assignment on readings by William James, Theodore Roosevelt, or Mark Twain.
-

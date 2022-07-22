@@ -5,6 +5,7 @@ file: /courses/21h-223-war-american-society-fall-2002/2e7374f813b76162e0fb1d4ee7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Presentations and Discussions
 uid: 2e7374f8-13b7-6162-e0fb-1d4ee7061350
 ---
 Grading criteria for final presentations for the course.
-
