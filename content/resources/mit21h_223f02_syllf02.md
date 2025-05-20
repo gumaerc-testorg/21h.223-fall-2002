@@ -2,7 +2,7 @@
 content_type: resource
 description: This syllabus provides a course description and information on requirements,
   books, and the course schedule.
-file: /ol-ocw-studio-app/courses/21h-223-war-american-society-fall-2002/6b14ecb4bcd181097a45a19226e620bc_MIT21H_223f02_syllf02.pdf
+file: /courses/21h-223-war-american-society-fall-2002/6b14ecb4bcd181097a45a19226e620bc_MIT21H_223f02_syllf02.pdf
 file_size: 134217
 file_type: application/pdf
 learning_resource_types: []
