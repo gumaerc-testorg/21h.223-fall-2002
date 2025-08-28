@@ -2,7 +2,7 @@
 content_type: resource
 description: Writing assignment on how The Vietnam War may be an exception in the
   history of American wars.
-file: /courses/21h-223-war-american-society-fall-2002/45c278173025974014a95ce86698b0b8_war_4_assig1102.pdf
+file: /ol-ocw-studio-app/courses/21h-223-war-american-society-fall-2002/45c278173025974014a95ce86698b0b8_war_4_assig1102.pdf
 file_size: 63840
 file_type: application/pdf
 learning_resource_types:
